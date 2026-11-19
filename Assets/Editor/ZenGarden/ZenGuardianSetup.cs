@@ -10,12 +10,12 @@ namespace ZenGarden.Editor
 {
     public static class ZenGuardianSetup
     {
-        private const string CharacterFbxPath = "Assets/Characters/ZenGuardian/Kachujin G Rosales.fbx";
-        private const string AnimIdlePath = "Assets/Characters/ZenGuardian/Kachujin G Rosales@Idle.fbx";
-        private const string AnimWavePath = "Assets/Characters/ZenGuardian/Kachujin G Rosales@Waving.fbx";
-        private const string AnimNodPath = "Assets/Characters/ZenGuardian/Kachujin G Rosales@Head Nod Yes.fbx";
-        private const string AnimTalkPath = "Assets/Characters/ZenGuardian/Kachujin G Rosales@Talking.fbx";
-        private const string AnimHandshakePath = "Assets/Characters/ZenGuardian/Kachujin G Rosales@Shaking Hands 1.fbx";
+        private const string CharacterFbxPath = "Assets/Characters/ZenGuardian/kachujin_model.fbx";
+        private const string AnimIdlePath = "Assets/Characters/ZenGuardian/kachujin_anim_idle.fbx";
+        private const string AnimWavePath = "Assets/Characters/ZenGuardian/kachujin_anim_waving.fbx";
+        private const string AnimNodPath = "Assets/Characters/ZenGuardian/kachujin_anim_head_nod.fbx";
+        private const string AnimTalkPath = "Assets/Characters/ZenGuardian/kachujin_anim_talking.fbx";
+        private const string AnimHandshakePath = "Assets/Characters/ZenGuardian/kachujin_anim_handshake.fbx";
         private const string ControllerPath = "Assets/Characters/ZenGuardian/ZenGuardian_Animator.controller";
 
         [MenuItem("Tools/Zen Garden VR/Setup Zen Guardian in Pavilion", false, 10)]

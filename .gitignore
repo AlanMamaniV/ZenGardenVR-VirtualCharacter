@@ -57,7 +57,6 @@ Thumbs.db
 *.swp
 *~
  
-.vscode/
 ZenGardenVR-Locomotion.slnx
 *.zip
 
@@ -66,3 +65,5 @@ Assets/DevEloop/
 Assets/DevEloop.meta
 Assets/StreamingAssets/
 Assets/StreamingAssets.meta
+config.bat
+node_modules
